@@ -16,3 +16,5 @@ If you don't already have an API key, you can grab one from [AI Studio](https://
 - 📊 Emotion classification & response personalization
 - ⚙️ Built using LangGraph on top of Gemini 2.0 Flash
 - 📦 Deployed in a professional UI with ipywidgets (for Kaggle Notebooks)
+
+ You can also check it on [kaggle](https://www.kaggle.com/code/aniketmaind/emotibot-where-emotional-intelligence-meets-genai).
